@@ -1,2 +1,7 @@
-# alucitoidea
-Files for the Catalogue of World Alucitoidea
+# Data files for Catalogue of World Alucitoidea
+
+The CSV files in this repository together form the contents of a [Catalogue of Life Data Package](https://github.com/CatalogueOfLife/coldp) (CoLDP file).
+
+This CoLDP dataset is for the [Catalogue of World Alucitoidea](https://alucitoidea.hobern.net), a continuously maintained checklist of the Alucitidae, the many-plume moths along with the false plume moths which until recently were places in a separate family Tineodidae. The dataset derives from the work of [Cees Gielis](https://www.researchgate.net/profile/Cees_Gielis) in developing the 2003 catalogue, [*Pterophoroidea & Alucitoidea (Lepidoptera)* (_World Catalogue of Insects_ 4)](https://www.researchgate.net/publication/270723918). This was restructured in 2020 as v1.0 of this dataset and added to the [Catalogue of Life](http://www.catalogueoflife.org/) as a component for this group of moths.
+
+These files are added here to enable versioning and tracking. The [CoLDPUtils](https://github.com/dhobern/CoLDPUtils) repository contains tools for manipulating these files.
