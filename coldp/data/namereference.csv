@@ -1,9 +1,9 @@
 nameID,referenceID,page,link,remarks
 132,9258,542,,
 8,47405,135,,
-119,48163,421; 437,,
-453205,48163,437,,
-126,10196,438,,
+119,48163,421,https://www.biodiversitylibrary.org/page/13718223,Name introduced for family containing Tineodes but not discussed in paper
+453205,48163,437,https://www.biodiversitylibrary.org/page/13718239,
+126,10196,438,https://www.biodiversitylibrary.org/page/13718240,
 130,4910,236,,
 30,10914,39,,
 28869,10914,40,,
@@ -207,7 +207,7 @@ nameID,referenceID,page,link,remarks
 453176,48120,568,,
 29989,9022,"16, fig'd",,
 122,9022,14,,
-29998,10188,438,,
+29998,10188,438,https://www.biodiversitylibrary.org/page/13718240,
 28712,6373,1846,,
 14,6373,1846,,
 29999,976,318,,

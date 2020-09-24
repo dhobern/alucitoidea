@@ -2,9 +2,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 7,7,Alucitoidea,"Minet, 1986",superfamily,Alucitoidea,,,,48161,,1986,ICZN,established,,
 8,8,Alucitidae,"Leach, 1815",family,Alucitidae,,,,47405,135,1815,ICZN,established,,
 132,132,Alucita,"Linnaeus, 1758",genus,Alucita,,,,9258,542,1758,ICZN,established,,
-119,119,Tineodidae,"Meyrick, 1885",family,Tineodidae,,,,48163,421; 437,1885,ICZN,established,,
-453205,453205,Oxychirotidae,"Meyrick, 1885",family,Oxychirotidae,,,,48163,437,1885,ICZN,established,,
-126,126,Oxychirota,"Meyrick, 1885",genus,Oxychirota,,,,10196,438,1885,ICZN,established,,
+119,119,Tineodidae,"Meyrick, 1885",family,Tineodidae,,,,48163,421,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718223
+453205,453205,Oxychirotidae,"Meyrick, 1885",family,Oxychirotidae,,,,48163,437,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718239
+126,126,Oxychirota,"Meyrick, 1885",genus,Oxychirota,,,,48163,438,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718240
 130,130,Tineodes,"Guenée, 1854",genus,Tineodes,,,,4910,236,1854,ICZN,established,,
 30,30,Alinguata,"Fleming, 1948",genus,Alinguata,,,,10914,39,1948,ICZN,established,,
 28869,28869,Alinguata neblina,"Fleming, 1948",species,,Alinguata,neblina,,10914,40,1948,ICZN,established,,
@@ -405,7 +405,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 453176,453176,Microschismus sterkfonteini,"Ustjuzhanin & Kovtunovich, 2011",species,,Microschismus,sterkfonteini,,48120,568,2011,ICZN,established,,
 122,122,Neoxychirota,"Clarke, 1986",genus,Neoxychirota,,,,9022,14,1986,ICZN,established,,
 29989,29989,Neoxychirota isolata,"Clarke, 1986",species,,Neoxychirota,isolata,,9022,"16, fig'd",1986,ICZN,established,,
-29998,29998,Oxychirota paradoxa,"Meyrick, 1885",species,,Oxychirota,paradoxa,,10188,438,1885,ICZN,established,,
+29998,29998,Oxychirota paradoxa,"Meyrick, 1885",species,,Oxychirota,paradoxa,,10188,438,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718240
 29996,29996,Oxychirota ceylonica,"Hampson, 1906",species,,Oxychirota,ceylonica,,,,,ICZN,established,,
 29997,29997,Oxychirota mesocola,"Hampson, 1906",species,,Oxychirota,mesocola,,,,,ICZN,established,,
 14,14,Paelia,"Walker, 1866",genus,Paelia,,,,6373,1846,1866,ICZN,established,,
