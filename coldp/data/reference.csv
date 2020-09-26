@@ -3,7 +3,7 @@ ID,author,title,year,source,details,link
 9258,Linnaeus,"Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis",1758,(Edn 10),,https://biodiversitylibrary.org/page/726886
 47405,"Leach, W.E.",Entomology [pp. 57–172],1815,Brewster’s Edinburgh Encyclopedia Volume IX [part I],". W. Blackwood, J. Waugh, etc., Edinburgh, pp. 764 pp",https://biodiversitylibrary.org/page/17493547
 48163,"Meyrick, E.",X. On the classification of the Australian Pyralidina,1885,Transactions of the Entomological Society of London,"33, 421–456",https://www.biodiversitylibrary.org/page/13718223
-4910,"Guenée, B.&",Histoire naturelle des insectes,1854,,,http://www.biodiversitylibrary.org/item/37754#page/20/mode/2up
+4910,"Guenée, A.& Boisduval, J.A.","Histoire naturelle des insectes, Tome Huitième, Deltiïdes et Pyralites",1854,,,http://www.biodiversitylibrary.org/item/37754
 48126,"Heikkilä, M., Mutanen, M., Wahlberg, N., Sihvonen, P. & Kaila, L.",Elusive ditrysian phylogeny: an account of combining systematized morphology with molecular data (Lepidoptera),2015,BMC Evolutionary Biology,15,https://doi.org/10.1186%2Fs12862-015-0520-0
 10914,"Fleming, H.","A new genus and species of Orneodidae (moths) from Rancho Grande, North-central Venezuela.",1948,"Zoologica, Stuttgart","33, 39–41",https://biodiversitylibrary.org/page/52150432
 10683,Hübner,Verzeichniss bekannter Schmetterlinge,1825,,,http://www.biodiversitylibrary.org/item/103196#page/312/mode/2up
@@ -23,7 +23,7 @@ ID,author,title,year,source,details,link
 4510,"Meyrick, E.",Exotic Microlepidoptera,1929,,,http://www.biodiversitylibrary.org/item/118988#page/504/mode/2up
 48109,"Diakonoff, A.",Microlepidoptera of New Guinea : results of the third Archbold expedition : (American-Netherlands Indian expedition 1938-1939) : part IV /,1954,Microlepidoptera of New Guinea : results of the third Archbold expedition : (American-Netherlands Indian expedition 1938-1939) : part IV /,". Amsterdam :North-Holland Publishing Company, 196 pp. Available from: https://www.biodiversitylibrary.org/item/210188",https://www.biodiversitylibrary.org/item/210188
 106012,"Pastrana, J.A.",Nuevos Orneodidae (Lep.) neotropicales,1960,Revista de la Sociedad Entomológica Argentina,"22, 85–91. [1959]",https://www.biotaxa.org/RSEA/article/view/47837/41375
-48063,"F.R.S., E.M.B.A.","XL.—The Percy Sladen and Godman trusts expedition to the Islands in the Gulf of Guinea, October 1932–March 1933.—III. Micro-Lepidoptera",1934,Annals and Magazine of Natural History,"14, 401–411",https://doi.org/10.1080/00222933408654913
+48063,"Meyrick, E.","XL.—The Percy Sladen and Godman trusts expedition to the Islands in the Gulf of Guinea, October 1932–March 1933.—III. Micro-Lepidoptera",1934,Annals and Magazine of Natural History,"14, 401–411",https://doi.org/10.1080/00222933408654913
 6887,Yang,Moths of North China,1977,,,
 108706,"Ustjuzhanin, P., Kovtunovich, V., Maicher, V., Sáfián, S., Delabye, S., Streltzov, A. & Tropek, R.","Even hotter hotspot: description of seven new species of many-plumed moths (Lepidoptera, Alucitidae) from Mount Cameroon",2020,ZooKeys,"935, 103–119. https://doi.org/10.3897/zookeys.935.49843",https://doi.org/10.3897/zookeys.935.49843
 48099,"Ustjuzhanin, P. & Kovtunovich, V.","A newly discovered biodiversity hotspot of many-plumed moths in the Mount Cameroon area: first report on species diversity, with description of nine new species (Lepidoptera, Alucitidae)",2018,ZooKeys,"777, 119–139",https://doi.org/10.3897/zookeys.777.24729
@@ -124,11 +124,8 @@ ID,author,title,year,source,details,link
 107936,"Sinev, S.",Katalog cheshuekrylykh (Lepidoptera) Rossii Izdanie 2 (Catalogue of the Lepidoptera of Russia Edition 2),2019,Katalog cheshuekrylykh (Lepidoptera) Rossii Izdanie 2 (Catalogue of the Lepidoptera of Russia Edition 2),. Available from: https://www.zin.ru/books/Lepidoptera_Russia/index.html,https://www.zin.ru/books/Lepidoptera_Russia/index.html
 110147,"Zagulajev, A.K.","New and little known species of moths of the fauna of Russia and neighbouring territories, VIII",1995,Entomologicheskoe Obozrenie,"74, 105–119",
 1309,Amsel,Arkiv für Zoologi,1961,(2),,
-4911,Guenée,Histoire naturelle des insectes,1854,,,http://www.biodiversitylibrary.org/item/37754#page/134/mode/2up
-6326,Walker,List of the specimens of lepidopterous insects in the collection of the British Museum,1859,,,http://www.biodiversitylibrary.org/item/120189#page/276/mode/2up
-6327,Walker,List of the specimens of lepidopterous insects in the collection of the British Museum,1859,,,http://www.biodiversitylibrary.org/item/120189#page/302/mode/2up
-10099,Hampson,Transactions of the Royal Entomological Society of London,1905,,,http://www.biodiversitylibrary.org/item/51242#page/290/mode/2up
-10113,Hampson,Transactions of the Royal Entomological Society of London,1905,,,http://www.biodiversitylibrary.org/item/51242#page/290/mode/2up
+6326,Walker,"List of the specimens of lepidopterous insects in the collection of the British Museum, part XVI. Deltoides",1859,,,http://www.biodiversitylibrary.org/item/120189
+10099,Hampson,Transactions of the Royal Entomological Society of London,1905,,,http://www.biodiversitylibrary.org/item/51242
 3407,Wocke,"Die Schmetterlinge Deutschlands und der Schweiz, systematisch bearbeität M.F. Wocke, nebst analytischen Tabellen, &c",1876,(2),,
 48061,"Ustjuzhanin, P., Kovtunovich, V. & Hobern, D.",A taxonomic review of the genus Triscaedecia (Lepidoptera: Alucitidae) in the world fauna,2019,Zootaxa,"4571, 373–382",https://doi.org/10.11646/zootaxa.4571.3.5
 1000000,"Zimmerman, E.C.",Lepidoptera: Pyraloidea,1958,"Insects of Hawaii","8: 1-456",http://hdl.handle.net/10125/7337
