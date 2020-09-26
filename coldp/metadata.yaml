@@ -9,6 +9,7 @@ contact:
   - givenName: Donald
     familyName: Hobern
     email: dhobern@gmail.com
+    orcid: "0000-0001-6492-4016"
 
 # list of authors and editors.
 # Please provide an ORCID if you can so it can be included in DOI metadata
@@ -16,10 +17,10 @@ authorsAndEditors:
   - givenName: Donald
     familyName: Hobern
     email: dhobern@gmail.com
-    orcid: 0000-0001-6492-4016
+    orcid: "0000-0001-6492-4016"
   - givenName: Cees
     familyName: Gielis
-    orcid: 0000-0003-0857-1679
+    orcid: "0000-0003-0857-1679"
 
 # description of the geographical scope of the dataset
 geographicScope: global
