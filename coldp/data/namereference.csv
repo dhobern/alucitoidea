@@ -180,16 +180,18 @@ nameID,referenceID,page,link,remarks
 453198,48123,25,,
 650041,108706,111-112,,
 453199,48123,25,,
-29990,7937,56,,
-123,7940,55,,
+29990,7937,56,https://www.biodiversitylibrary.org/page/35546852,
+123,7937,55,https://www.biodiversitylibrary.org/page/35546851,
 29993,6360,945,,
 124,4261,176,,
 29995,10179,203,,
 125,10200,203,,
-29985,7937,57,,
-120,7940,"55 (key), 57",,
+29985,7937,57,https://www.biodiversitylibrary.org/page/35546853,
+120,7937,55,https://www.biodiversitylibrary.org/page/35546851,Key
+120,7937,57,https://www.biodiversitylibrary.org/page/35546853,Original description
 29987,10400,108,,
-121,7940,"55 (key), 59",,
+121,7937,55,https://www.biodiversitylibrary.org/page/35546851,Key
+121,7937,59,https://www.biodiversitylibrary.org/page/35546855,Original description
 28698,4510,539,,
 11,4510,539,,
 28699,4510,540,,
@@ -226,8 +228,9 @@ nameID,referenceID,page,link,remarks
 28683,48166,33,,
 28717,107937,26,,
 28718,110147,117,,
-30000,7937,57,,
-128,7940,"55 (key), 56",,
+30000,7937,57,https://www.biodiversitylibrary.org/page/35546853,
+128,7937,55,https://www.biodiversitylibrary.org/page/35546851,Key
+128,7937,56,https://www.biodiversitylibrary.org/page/35546852,
 30001,1309,"403, text-figs 90-92, pl.5 fig.207",,
 129,1309,402,,
 30002,4910,237,https://www.biodiversitylibrary.org/page/9825893,Original description
