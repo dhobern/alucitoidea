@@ -1,5 +1,9 @@
 ID,parentID,nameID,scrutinizer,scrutinizerDate,referenceID,extinct,temporalRangeEnd,lifezone,kingdom,phylum,class,order,superfamily,family,subfamily,tribe,genus,species,remarks
-7,,7,"Gielis, C. & Hobern, D.",2020-07-17,,FALSE,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,,,,,,
+1,,1,"Gielis, C. & Hobern, D.",2020-07-16,,FALSE,Holocene,,Animalia,,,,,,,,,,
+2,1,2,"Gielis, C. & Hobern, D.",2020-07-16,,FALSE,Holocene,,Animalia,Arthropoda,,,,,,,,,
+3,2,3,"Gielis, C. & Hobern, D.",2020-07-16,,FALSE,Holocene,,Animalia,Arthropoda,Insecta,,,,,,,,
+4,3,4,"Gielis, C. & Hobern, D.",2020-07-16,,FALSE,Holocene,,Animalia,Arthropoda,Insecta,Lepidoptera,,,,,,,
+7,4,7,"Gielis, C. & Hobern, D.",2020-07-17,,FALSE,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,,,,,,
 8,7,8,"Gielis, C. & Hobern, D.",2020-07-17,,FALSE,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,,,
 132,8,132,"Gielis, C. & Hobern, D.",2020-07-17,,FALSE,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,
 126,8,126,"Gielis, C. & Hobern, D.",2020-07-17,,FALSE,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Oxychirota,,

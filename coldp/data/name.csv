@@ -1,4 +1,8 @@
 ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,infraspecificEpithet,referenceID,publishedInPage,publishedInYear,code,status,remarks,link
+"1","1","Animalia","Linnaeus, 1758","kingdom","Animalia",,,,"1064","9","1758","ICZN","established",,"https://www.biodiversitylibrary.org/page/726898"
+"2","2","Arthropoda","von Siebold, 1848","phylum","Arthropoda",,,,"1899","4","1848","ICZN","established",,"https://www.biodiversitylibrary.org/page/11149394"
+"3","3","Insecta","Linnaeus, 1758","class","Insecta",,,,"1064","339","1758","ICZN","established",,"https://www.biodiversitylibrary.org/page/727250"
+"4","4","Lepidoptera","Linnaeus, 1758","order","Lepidoptera",,,,"1064","343","1758","ICZN","established",,"https://www.biodiversitylibrary.org/page/727254"
 7,7,Alucitoidea,"Minet, 1986",superfamily,Alucitoidea,,,,48161,,1986,ICZN,established,,
 8,8,Alucitidae,"Leach, 1815",family,Alucitidae,,,,47405,135,1815,ICZN,established,,
 132,132,Alucita,"Linnaeus, 1758",genus,Alucita,,,,9258,542,1758,ICZN,established,,
