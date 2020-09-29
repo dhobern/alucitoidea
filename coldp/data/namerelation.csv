@@ -1,32 +1,32 @@
 nameID,relatedNameID,type,referenceID,remarks
-28597,132,type,,Type species by subsequent designation
-28597,9,type,,Type species by original designation
-28597,10,type,,Type species by subsequent designation
-29985,120,type,,Type species by original designation
-1029987,121,type,,Type species by original designation
-1028708,453177,type,,Type species by original designation
-29989,122,type,,Type species
-29990,123,type,,Type species by original monotypy
-1029993,124,type,,Type species by original designation
-29995,125,type,,Type species by original monotypy
-28698,11,type,,Type species by original monotypy
-29998,126,type,,Type species by original monotypy
-28699,12,type,,Type species by original monotypy
-29999,127,type,,Type species by original monotypy
-28706,13,type,,Type species by original designation
-30000,128,type,,Type species by original monotypy
-28712,14,type,6373,Type species by original monotypy
-30001,129,type,,Type species by original designation
-28713,15,type,,Type species by original monotypy
-30002,130,type,,Type species by original monotypy
-1028715,16,type,,Type species by original designation
-1030003,131,type,,Type species by original monotypy
-28719,17,type,,Type species by original monotypy
-1028720,18,type,,Type species by original monotypy
-132,8,type,,Type genus
-130,119,type,,Type genus
-126,453205,type,,Type genus
-28604,453157,replacement name,,Replacement for junior homonym
-18,13303,later homonym,,Later homonym
-28604,28603,later homonym,48067,Later homonym
-624190,28552,superfluous,,misspelling
+146,11,type,,Type species by subsequent designation
+146,13,type,,Type species by original designation
+146,14,type,,Type species by subsequent designation
+377,375,type,,Type species by original designation
+382,378,type,,Type species by original designation
+399,392,type,,Type species by original designation
+407,406,type,,Type species
+366,365,type,,Type species by original monotypy
+371,367,type,,Type species by original designation
+374,373,type,,Type species by original monotypy
+386,385,type,,Type species by original monotypy
+411,408,type,,Type species by original monotypy
+388,387,type,,Type species by original monotypy
+415,414,type,,Type species by original monotypy
+400,391,type,,Type species by original designation
+447,446,type,,Type species by original monotypy
+413,412,type,109,Type species by original monotypy
+449,448,type,,Type species by original designation
+417,416,type,,Type species by original monotypy
+453,450,type,,Type species by original monotypy
+423,418,type,,Type species by original designation
+454,451,type,,Type species by original monotypy
+457,456,type,,Type species by original monotypy
+460,466,type,,Type species by original monotypy
+11,6,type,,Type genus
+450,7,type,,Type genus
+408,8,type,,Type genus
+465,177,replacement name,,Replacement for junior homonym
+466,467,later homonym,,Later homonym
+465,214,later homonym,20,Later homonym
+43,41,superfluous,,misspelling
