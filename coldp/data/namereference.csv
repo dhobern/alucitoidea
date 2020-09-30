@@ -158,7 +158,8 @@ nameID,referenceID,page,link,remarks
 320,55,221,,
 322,59,83,,
 324,61,407,,
-327,50,133,,
+328,50,133,https://www.biodiversitylibrary.org/page/30119297,Original description
+328,20,116,,Misspelling
 330,77,85,,
 332,99,169,,
 333,101,110-111,,
@@ -252,3 +253,6 @@ nameID,referenceID,page,link,remarks
 4,41,343,https://www.biodiversitylibrary.org/page/727254,Original description
 1,41,9,https://www.biodiversitylibrary.org/page/726898,Original description
 2,106,4,https://www.biodiversitylibrary.org/page/11149394,Original description
+471,10,167,,Original description
+469,13,179,,Original description
+470,130,204,https://www.nhm.ac.uk/our-science/data/lepindex/detail/?taxonno=204,Misspelling in LepIndex
