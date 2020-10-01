@@ -377,7 +377,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 376,376,Cenoloba taprobana,"Hampson, 1912",species,,Cenoloba,taprobana,,,,,ICZN,established,,
 377,377,Epharpastis,"Meyrick, 1887",genus,Epharpastis,,,,48,203,1887,ICZN,established,,
 378,378,Epharpastis daedala,"Meyrick, 1887",species,,Epharpastis,daedala,,48,203,1887,ICZN,established,,
-379,379,Euthesaura,"Turner, 1922",genus,Euthesaura,,,,89,"55 (key), 57",1922,ICZN,established,,
+379,379,Euthesaura,"Turner, 1922",genus,Euthesaura,,,,89,"55 (key), 57",1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546853
 380,380,Euthesaura carbonaria,"Turner, 1922",species,,Euthesaura,carbonaria,,89,58,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546854
 381,381,Euthesaura glycina,"Turner, 1922",species,,Euthesaura,glycina,,89,57,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546853
 382,382,Euthrausta,"Turner, 1922",genus,Euthrausta,,,,89,"55 (key), 59",1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546855
@@ -427,7 +427,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 426,425,Alucita dorcadius,"(Hering, 1917)",species,,Alucita,dorcadius,,,,,ICZN,established,,
 427,427,Alucita dodecadactyla,"Hübner, 1813",species,,Alucita,dodecadactyla,,31,pl.6 fig.29,1813,ICZN,established,,
 428,431,Pterotopteryx eumorphodactyla,"(Caradja, 1920)",species,,Pterotopteryx,eumorphodactyla,,,,,ICZN,established,,
-429,429,Alucita eumorphodactyla,"(Caradja, 1920)",species,,Alucita,eumorphodactyla,,,,,ICZN,established,,
+429,431,Alucita eumorphodactyla,"(Caradja, 1920)",species,,Alucita,eumorphodactyla,,,,,ICZN,established,,
 430,430,Pterotopteryx koreana,"Byun, 2006",species,,Pterotopteryx,koreana,,6,42,2006,ICZN,established,,
 431,431,Orneodes zonodactyla var. eumorphodactyla,"Caradja, 1920",variety,,Orneodes,zonodactyla,,8,88,1920,ICZN,established,,
 432,432,Alucita sakhalinica,"Zagulajev, 1995",species,,Alucita,sakhalinica,,,,,ICZN,established,,
@@ -439,7 +439,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 438,443,Alucita isshikii,"(Matsumura, 1931)",species,,Alucita,isshikii,,,,,ICZN,established,,
 439,440,Alucita ochracea,"(Marumo, 1923)",species,,Alucita,ochracea,,,,,ICZN,established,,
 440,440,Orneodes ochracea,"Marumo, 1923",species,,Orneodes,ochracea,,,,,ICZN,established,,
-441,441,Alucita spilodesma,"(Meyrick, 1908)",species,,Alucita,spilodesma,,,,,ICZN,established,,
+441,442,Alucita spilodesma,"(Meyrick, 1908)",species,,Alucita,spilodesma,,,,,ICZN,established,,
 442,442,Orneodes spilodesma,"Meyrick, 1908",species,,Orneodes,spilodesma,,53,508,1908,ICZN,established,,
 443,443,Orneodes isshikii,"Matsumura, 1931",species,,Orneodes,isshikii,,44,,1931,ICZN,established,,
 444,445,Pterotopteryx synnephodactyla,"(Alphéraky, 1876)",species,,Pterotopteryx,synnephodactyla,,,,,ICZN,established,,
