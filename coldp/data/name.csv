@@ -378,15 +378,15 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 377,377,Epharpastis,"Meyrick, 1887",genus,Epharpastis,,,,48,203,1887,ICZN,established,,
 378,378,Epharpastis daedala,"Meyrick, 1887",species,,Epharpastis,daedala,,48,203,1887,ICZN,established,,
 379,379,Euthesaura,"Turner, 1922",genus,Euthesaura,,,,89,"55 (key), 57",1922,ICZN,established,,
-380,380,Euthesaura carbonaria,"Turner, 1922",species,,Euthesaura,carbonaria,,,,,ICZN,established,,
-381,381,Euthesaura glycina,"Turner, 1922",species,,Euthesaura,glycina,,89,57,1922,ICZN,established,,
-382,382,Euthrausta,"Turner, 1922",genus,Euthrausta,,,,89,"55 (key), 59",1922,ICZN,established,,
-383,384,Euthrausta holophaea,"(Turner, 1908)",species,,Euthrausta,holophaea,,,,,ICZN,established,,
-384,384,Tineodes holophaea,"Turner, 1908",species,,Tineodes,holophaea,,,,,ICZN,established,,
-385,386,Euthrausta oxyprora,"(Turner, 1908)",species,,Euthrausta,oxyprora,,,,,ICZN,established,,
-386,386,Tineodes oxyprora,"Turner, 1908",species,,Tineodes,oxyprora,,87,108,1908,ICZN,established,,
-387,388,Euthrausta phoenicea,"(Turner, 1908)",species,,Euthrausta,phoenicea,,,,,ICZN,established,,
-388,388,Tineodes phoenicea,"Turner, 1908",species,,Tineodes,phoenicea,,,,,ICZN,established,,
+380,380,Euthesaura carbonaria,"Turner, 1922",species,,Euthesaura,carbonaria,,89,58,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546854
+381,381,Euthesaura glycina,"Turner, 1922",species,,Euthesaura,glycina,,89,57,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546853
+382,382,Euthrausta,"Turner, 1922",genus,Euthrausta,,,,89,"55 (key), 59",1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546855
+383,384,Euthrausta holophaea,"(Turner, 1908)",species,,Euthrausta,holophaea,,89,59,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546855
+384,384,Tineodes holophaea,"Turner, 1908",species,,Tineodes,holophaea,,87,108,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/26250863
+385,386,Euthrausta oxyprora,"(Turner, 1908)",species,,Euthrausta,oxyprora,,89,59,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546855
+386,386,Tineodes oxyprora,"Turner, 1908",species,,Tineodes,oxyprora,,87,108,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/26250863
+387,388,Euthrausta phoenicea,"(Turner, 1908)",species,,Euthrausta,phoenicea,,89,59,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/35546855
+388,388,Tineodes phoenicea,"Turner, 1908",species,,Tineodes,phoenicea,,87,107,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/26250862
 389,389,Hebdomactis,"Meyrick, 1929",genus,Hebdomactis,,,,66,539,1929,ICZN,established,,
 390,390,Hebdomactis crystallodes,"Meyrick, 1929",species,,Hebdomactis,crystallodes,,66,539,1929,ICZN,established,,
 391,391,Hexeretmis,"Meyrick, 1929",genus,Hexeretmis,,,,66,539,1929,ICZN,established,,
