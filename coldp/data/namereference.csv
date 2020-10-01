@@ -244,14 +244,14 @@ nameID,referenceID,page,link,remarks
 456,108,"407 (key, as *Careantia), 424",,
 455,108,"407 (key); 407 (key, as *Careantia), 424",,
 458,108,425,,
-461,24,"247, fig.",,
-460,24,247,,
+461,24,"247, fig.",https://www.biodiversitylibrary.org/page/14788067,Original description
+460,24,247,https://www.biodiversitylibrary.org/page/14788067,Original description
 464,75,241,,
 471,118,644,,
-462,101,376-378,,
-465,101,374-376,,
-466,101,379-382,,
-467,101,378-379,,
+462,101,376,,,Original description
+465,101,374,,,Original description
+466,101,379,,,Original description
+467,101,378,,,Original description
 238,115,477,https://www.biodiversitylibrary.org/page/38854851,Original description
 239,115,477,https://www.biodiversitylibrary.org/page/38854851,Original description
 239,130,413,,Synonymisation with Orneodes objurgatella

@@ -458,14 +458,14 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 457,457,Tineodes adactylalis,"Guenée, 1854",species,,Tineodes,adactylalis,,23,"237, pl.9 fig.7",1854,ICZN,established,,https://www.biodiversitylibrary.org/page/9825893
 458,458,Carcantia pterophoralis,"Walker, 1859",species,,Carcantia,pterophoralis,,108,425,1859,ICZN,established,,
 459,458,Tineodes pterophoralis,"(Walker, 1859)",species,,Tineodes,pterophoralis,,,,,ICZN,established,,
-460,460,Triscaedecia,"Hampson, 1905",genus,Triscaedecia,,,,24,247,1905,ICZN,established,,
-461,461,Triscaedecia dactyloptera,"Hampson, 1905",species,,Triscaedecia,dactyloptera,,24,"247, fig.",1905,ICZN,established,,
-462,462,Triscaedecia sarawaki,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,sarawaki,,101,376-378,2019,ICZN,established,,
+460,460,Triscaedecia,"Hampson, 1905",genus,Triscaedecia,,,,24,247,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/14788067
+461,461,Triscaedecia dactyloptera,"Hampson, 1905",species,,Triscaedecia,dactyloptera,,24,"247, fig.",1905,ICZN,established,,https://www.biodiversitylibrary.org/page/14788067
+462,462,Triscaedecia sarawaki,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,sarawaki,,101,376,2019,ICZN,established,,
 463,464,Triscaedecia septemdactyla,"(Pagenstecher, 1900)",species,,Triscaedecia,septemdactyla,,,,,ICZN,established,,
 464,464,Hofmannia septemdactyla,"Pagenstecher, 1900",species,,Hofmannia,septemdactyla,,75,241,1900,ICZN,established,,
-465,465,Triscaedecia sulawesi,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,sulawesi,,101,374-376,2019,ICZN,established,,
-466,466,Triscaedecia suva,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,suva,,101,379-382,2019,ICZN,established,,
-467,467,Triscaedecia svetlanae,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,svetlanae,,101,378-379,2019,ICZN,established,,
+465,465,Triscaedecia sulawesi,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,sulawesi,,101,374,2019,ICZN,established,,
+466,466,Triscaedecia suva,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,suva,,101,379,2019,ICZN,established,,
+467,467,Triscaedecia svetlanae,"Ustjuzhanin, Kovtunovich & Hobern, 2019",species,,Triscaedecia,svetlanae,,101,378,2019,ICZN,established,,
 469,469,Alucita montana,"Zagulajev, 1993",species,,Alucita,montana,,,,,ICZN,established,,
 470,470,Hofmannia,"Pagenstecher, 1900",genus,Hofmannia,,,,75,,1900,ICZN,established,,
 471,471,Hofmannia,"Wocke, 1876",genus,Hofmannia,,,,118,644,1876,ICZN,established,,
