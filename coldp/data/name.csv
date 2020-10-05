@@ -9,7 +9,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 8,8,Tineodidae,"Meyrick, 1885",family,Tineodidae,,,,46,421,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718223
 9,9,Alinguata,"Fleming, 1948",genus,Alinguata,,,,16,39,1948,ICZN,established,,
 10,10,Alinguata neblina,"Fleming, 1948",species,,Alinguata,neblina,,16,40,1948,ICZN,established,,
-11,11,Alucita,"Linnaeus, 1758",genus,Alucita,,,,41,542,1758,ICZN,established,,
+11,11,Alucita,"Linnaeus, 1758",genus,Alucita,,,,42,542,1758,ICZN,established,,
 12,12,Euchiradia,"Hübner, 1825",genus,Euchiradia,,,,32,431,1825,ICZN,established,,
 13,13,Orneodes,"Latreille, 1796",genus,Orneodes,,,,39,148,1796,ICZN,established,,
 14,14,Orneodus,"Latreille, 1796",genus,Orneodus,,,,54,4,1909,ICZN,established,Misspelling,https://www.biodiversitylibrary.org/page/50494889
@@ -144,7 +144,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 143,143,Alucita helena,"Ustjuzhanin, 1993",species,,Alucita,helena,,91,83,1993,ICZN,established,,
 144,145,Alucita hemicyclus,"(Hering, 1917)",species,,Alucita,hemicyclus,,,,,ICZN,established,,
 145,145,Orneodes hemicyclus,"Hering, 1917",species,,Orneodes,hemicyclus,,28,,1917,ICZN,established,,
-146,146,Alucita hexadactyla,"Linnaeus, 1758",species,,Alucita,hexadactyla,,41,542,1758,ICZN,established,,
+146,146,Alucita hexadactyla,"Linnaeus, 1758",species,,Alucita,hexadactyla,,42,542,1758,ICZN,established,,
 147,147,Alucita poecilodactyla,"Stephens, 1835",species,,Alucita,poecilodactyla,,83,379,1835,ICZN,established,,
 148,148,Alucita polydactyla,"Hübner, 1813",species,,Alucita,polydactyla,,31,Pl. 6 Fig. 28,1813,ICZN,established,,
 149,150,Alucita hofmanni,"(Pagenstecher, 1900)",species,,Alucita,hofmanni,,,,,ICZN,established,,
