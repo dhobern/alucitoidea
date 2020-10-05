@@ -10,6 +10,7 @@ nameID,referenceID,page,link,remarks
 146,41,542,,
 12,32,431,,
 13,39,148,,
+14,54,4,https://www.biodiversitylibrary.org/page/50494889,Misspelling
 15,30,94,,
 17,22,16,,
 19,117,450,,
@@ -43,8 +44,9 @@ nameID,referenceID,page,link,remarks
 71,112,130,,
 72,80,26,,
 74,53,510,,
-75,15,"Plate CXL, fig. 63",,
-77,54,"4, plate 2",,
+75,15,"Plate CXL, fig. 63",https://www.biodiversitylibrary.org/page/1221397,Original illustration
+77,54,4,https://www.biodiversitylibrary.org/page/50494889,Original description
+77,54,"Plate 2, fig. 4",https://www.biodiversitylibrary.org/page/50494916,Illustration
 79,53,507,,
 81,4,293,,
 83,106,457,,
@@ -69,7 +71,7 @@ nameID,referenceID,page,link,remarks
 113,28,193,,
 114,99,129,,
 116,66,533,,
-117,15,"Plate CXL, Fig. 62",,
+117,15,"Plate CXL, Fig. 62",https://www.biodiversitylibrary.org/page/1221397,Original illustration
 119,14,177,,
 124,72,41,,
 125,113,285,,
@@ -80,7 +82,7 @@ nameID,referenceID,page,link,remarks
 136,13,214,,
 137,127,869,,
 138,125,880,,
-139,1,225,,
+140,1,225,https://biodiversitylibrary.org/page/47928623,Original description
 142,59,293,,
 143,91,83,,
 147,83,379,,
@@ -92,8 +94,11 @@ nameID,referenceID,page,link,remarks
 156,120,220,,
 158,9,28,,
 159,80,44,,
+161,138,625,,Original description
+163,66,538,,Original description
 164,80,34,,
 167,50,583,,
+169,64,373,,Original description
 170,102,107-108,,
 171,99,133,,
 175,77,491,,
@@ -104,18 +109,29 @@ nameID,referenceID,page,link,remarks
 182,38,568-577,,
 184,56,221,,
 185,99,126,,
+187,139,24,,Original description
 189,99,127,,
 191,55,107,,
 192,22,21,,
 194,53,510,,
+195,80,42,,Recognition as species
+196,140,210,https://www.biodiversitylibrary.org/page/5325364,Original description
 198,22,21,,
 200,86,151,,
+201,141,52,,Original description
 202,103,1115,,
 204,53,508,,
 206,66,534,,
 208,14,181,,
 211,99,130,,
 213,64,373,,
+217,134,159,https://www.biodiversitylibrary.org/page/59022184,Original description
+217,134,"Plate G, fig. 2",https://www.biodiversitylibrary.org/page/59022194,Illustration
+210,134,162,https://www.biodiversitylibrary.org/page/59022190,Original description
+210,134,"Fig. 6",https://www.biodiversitylibrary.org/page/59022191,Illustration
+281,134,162,https://www.biodiversitylibrary.org/page/59022187,Original description
+281,134,"Plate G, fig. 6",https://www.biodiversitylibrary.org/page/59022194,Illustration
+461,134,"168, figs. 7,8",https://www.biodiversitylibrary.org/page/59022193,Illustration showing maxillary palpus
 219,68,333,,
 223,129,486,,
 225,53,505,,
@@ -129,11 +145,12 @@ nameID,referenceID,page,link,remarks
 247,52,730,,
 248,99,135,,
 249,125,888,,
-254,82,259,,
+254,82,259,https://www.biodiversitylibrary.org/page/8985513,Original description
 255,10,296,,
 257,55,106,,
 259,117,451,,
 260,22,23,,
+262,21,114,,"States that Orneodes parca Rebel, 1901 is a manuscript name (teste Scholz & Jäckh, 1994) for a species found in Israel (teste Amsel, 1935)"
 265,80,52,,
 268,63,96,,
 272,58,55,,
@@ -149,6 +166,7 @@ nameID,referenceID,page,link,remarks
 296,62,408,,
 301,22,23,,
 306,62,406,,
+313,66,538,,Original description
 314,18,397,,
 315,67,86,,
 312,28,191,,
@@ -182,8 +200,10 @@ nameID,referenceID,page,link,remarks
 368,22,25,,
 370,89,56,https://www.biodiversitylibrary.org/page/35546852,
 369,89,55,https://www.biodiversitylibrary.org/page/35546851,
-375,109,945,,
+375,109,945,https://www.biodiversitylibrary.org/page/38948537,Original description
 371,114,176,,
+372,137,49,,Original description
+373,135,279,https://www.biodiversitylibrary.org/page/15611293,Original description
 378,48,203,,
 377,48,203,,
 380,89,58,https://www.biodiversitylibrary.org/page/35546854,
@@ -205,8 +225,9 @@ nameID,referenceID,page,link,remarks
 391,66,539,,
 393,69,507,,
 394,77,487,,
-395,17,253,,
+395,17,253,https://www.biodiversitylibrary.org/page/25338570,Original description
 396,54,5,,
+397,17,253,https://www.biodiversitylibrary.org/page/25338570,Original description
 403,113,"284, Pl. XIII. fig. 49",,
 400,56,222,,
 405,93,564,,
@@ -216,11 +237,13 @@ nameID,referenceID,page,link,remarks
 409,93,568,,
 411,11,"16, fig'd",,
 410,11,14,,
+413,136,216,https://www.biodiversitylibrary.org/page/19245434,Original description
+414,136,216,https://www.biodiversitylibrary.org/page/19245434,Original description
 415,45,438,https://www.biodiversitylibrary.org/page/13718240,
 417,110,1846,,
 416,110,1846,,
-419,25,318,,
-418,25,318,,
+419,25,318,https://www.biodiversitylibrary.org/page/22099805,Original description
+418,25,318,https://www.biodiversitylibrary.org/page/22099805,Original description
 421,67,86,,
 420,67,86,,
 427,31,pl.6 fig.29,,
@@ -266,3 +289,8 @@ nameID,referenceID,page,link,remarks
 43,78,89,,Original description
 472,131,202,,Original description
 473,131,202,,Original description
+474,132,27,,Original description
+475,132,28,,Original description
+476,133,287,,Original description
+477,132,30,,Misspelling
+478,142,117,,Original description
