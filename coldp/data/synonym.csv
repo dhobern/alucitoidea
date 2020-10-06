@@ -31,7 +31,6 @@ taxonID,nameID,status,referenceID,remarks
 11,12,synonym,,Objective synonym
 46,47,synonym,,
 307,312,synonym,,
-59,61,synonym,,
 233,234,synonym,,
 387,388,synonym,,
 293,294,synonym,,
@@ -151,7 +150,6 @@ taxonID,nameID,status,referenceID,remarks
 112,113,synonym,,
 444,447,synonym,,
 263,264,synonym,,
-59,64,synonym,,
 299,300,synonym,,
 214,215,synonym,,Subjective synonym
 103,105,synonym,103,Subjective synonym
