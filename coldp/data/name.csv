@@ -257,8 +257,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 258,259,Alucita panolbia,"(Walsingham, 1915)",species,,Alucita,panolbia,,,,,ICZN,established,,
 259,259,Orneodes panolbia,"Walsingham, 1915",species,,Orneodes,panolbia,,117,451,1915,ICZN,established,,
 260,260,Alucita papuaensis,"Gielis, 2009",species,,Alucita,papuaensis,,22,23,2009,ICZN,established,,
-261,262,Alucita parca,"(Rebel, 1901)",species,,Alucita,parca,,,,,ICZN,not established,,
-262,262,Orneodes parca,"Rebel, 1901",species,,Orneodes,parca,,,,,ICZN,not established,"Manuscript name (teste Scholz & Jäckh, 1994)",
 263,264,Alucita patria,"(Meyrick, 1921)",species,,Alucita,patria,,,,,ICZN,established,,
 264,264,Orneodes patria,"Meyrick, 1921",species,,Orneodes,patria,,62,,1921,ICZN,established,,
 265,265,Alucita pectinata,"Scholz & Jäckh, 1994",species,,Alucita,pectinata,,80,52,1994,ICZN,established,,
@@ -411,7 +409,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 412,412,Oxychirota,"Meyrick, 1885",genus,Oxychirota,,,,46,438,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718240
 413,413,Oxychirota ceylonica,"Hampson, 1906",species,,Oxychirota,ceylonica,,136,216,1906,ICZN,established,,https://www.biodiversitylibrary.org/page/19245434
 414,414,Oxychirota mesocola,"Hampson, 1906",species,,Oxychirota,mesocola,,136,216,1906,ICZN,established,,https://www.biodiversitylibrary.org/page/19245434
-415,415,Oxychirota paradoxa,"Meyrick, 1885",species,,Oxychirota,paradoxa,,45,438,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718240
+415,415,Oxychirota paradoxa,"Meyrick, 1885",species,,Oxychirota,paradoxa,,46,438,1885,ICZN,established,,https://www.biodiversitylibrary.org/page/13718240
 416,416,Paelia,"Walker, 1866",genus,Paelia,,,,110,1846,1866,ICZN,established,,
 417,417,Paelia lunuligera,"Walker, 1866",species,,Paelia,lunuligera,,110,1846,1866,ICZN,established,,
 418,418,Palaeodes,"Hampson, 1913",genus,Palaeodes,,,,25,318,1913,ICZN,established,,https://www.biodiversitylibrary.org/page/22099805
