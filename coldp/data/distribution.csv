@@ -20,4 +20,11 @@ taxonId,area,gazetteer,status,referenceID,remarks
 141,GH,iso,native,132,
 141,ZA,iso,native,132,
 141,MW,iso,native,132,
-476,TW,iso,native,133
+476,TW,iso,native,133,
+437,IN,iso,native,,
+437,PH,iso,native,,
+437,RU,iso,native,,
+437,CN,iso,native,,
+437,JP,iso,native,,
+437,RU-SAK,iso,native,149,
+479,ZA-MP,iso,native,150,
