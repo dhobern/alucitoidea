@@ -165,6 +165,8 @@ nameID,referenceID,page,link,remarks
 284,76,117,,
 286,145,502,,Original description
 289,11,166,,Original description
+289,11,167,,Male genitalia
+289,11,445,,Illustration (Fig. 294a)
 290,110,1846,,
 292,49,1112,,
 294,60,82,,
@@ -294,7 +296,11 @@ nameID,referenceID,page,link,remarks
 1,42,9,https://www.biodiversitylibrary.org/page/726898,Original description
 2,107,4,https://www.biodiversitylibrary.org/page/11149394,Original description
 360,11,167,,Original description
-362,14,179,,Original description
+360,11,168,,Male and female genitalia
+360,11,445,,Illustration (Fig. 294d)
+362,14,179,https://www.biodiversitylibrary.org/page/51525580,Original description
+362,14,178,https://www.biodiversitylibrary.org/page/51525579,Male genitalia
+362,152,8,https://www.biodiversitylibrary.org/page/51541297,Map showing location of Iebèlè Camp
 363,5,204,https://www.nhm.ac.uk/our-science/data/lepindex/detail/?taxonno=204,Misspelling in LepIndex
 42,5,61,https://www.nhm.ac.uk/our-science/data/lepindex/detail/?taxonno=61,Misspelling in LepIndex
 43,78,89,,Original description
@@ -306,3 +312,4 @@ nameID,referenceID,page,link,remarks
 477,132,30,,Misspelling
 478,142,117,,Original description
 479,150,2,,Original description
+480,151,4,,Original description
