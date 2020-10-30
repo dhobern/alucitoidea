@@ -189,3 +189,5 @@ taxonID,nameID,status,referenceID,remarks
 361,363,synonym,,
 211,477,synonym,,
 222,478,synonym,,
+290,481,synonym,117,
+223,482,synonym,117,
