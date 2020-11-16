@@ -14,7 +14,7 @@ nameID,referenceID,page,link,remarks
 15,30,94,,
 17,22,16,,
 19,117,450,https://www.biodiversitylibrary.org/page/593632,Original description
-21,57,269,,
+21,57,269,https://www.biodiversitylibrary.org/page/50477203,Original description
 23,88,161,,
 24,80,40,,
 25,38,561-568,,
@@ -25,7 +25,7 @@ nameID,referenceID,page,link,remarks
 35,66,533,,
 37,66,536,,
 38,22,17,,
-40,14,184,,
+40,14,184,https://www.biodiversitylibrary.org/page/51525585,Original description
 45,70,401,,
 47,119,259,,
 48,102,108-110,,
@@ -53,7 +53,7 @@ nameID,referenceID,page,link,remarks
 81,4,293,,
 83,106,457,,
 85,63,95,,
-87,71,119,,
+87,71,119,,Original description
 89,69,506,,
 90,128,413,,
 91,74,101,,
@@ -142,7 +142,7 @@ nameID,referenceID,page,link,remarks
 232,22,22,,
 234,62,408,,
 237,115,477,,
-244,28,194,,
+244,28,194,https://www.biodiversitylibrary.org/page/9271812,
 245,43,35,,
 247,52,730,,
 248,99,135,,
@@ -319,3 +319,8 @@ nameID,referenceID,page,link,remarks
 223,117,450,https://www.biodiversitylibrary.org/page/593632,Material from Mexico
 481,117,449,https://www.biodiversitylibrary.org/page/593630,New combination
 482,117,450,https://www.biodiversitylibrary.org/page/593632,New combination
+401,58,35,https://www.biodiversitylibrary.org/page/50361261,Original description
+36,22,17,,Redescription
+39,22,18,,Redescription
+483,154,73,,Original description
+483,154,72,,"Photographs: adult, larva, male and female genitalia"
