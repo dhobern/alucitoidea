@@ -1,52 +1,56 @@
 title: Catalogue of the Alucitoidea of the World
-# a short, hopefully unique name for the dataset
+
 alias: Alucitoidea
+
 description: |
     This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://alucitoidea.hobern.net/. Version 1.0 includes updates to reflect recent changes in taxonomy and new species.
 
-# single point of contact for questions
-contact:
-  - givenName: Donald
-    familyName: Hobern
-    orcid: "0000-0001-6492-4016"
-
-# list of authors and editors.
-# Please provide an ORCID if you can so it can be included in DOI metadata
-authorsAndEditors:
-  - givenName: Donald
-    familyName: Hobern
-    email: dhobern@gmail.com
-    orcid: "0000-0001-6492-4016"
-  - givenName: Cees
-    familyName: Gielis
-    orcid: "0000-0003-0857-1679"
-
-# description of the geographical scope of the dataset
-geographicScope: global
-
-# taxonomic scope of the dataset
-taxonomicScope: Alucitoidea
-
-# nomenclatural code covered. Keep empty if its across codes
-# botanical, zoological, bacterial, virus
-code: zoological
-
-# gazetteer to base distribution codes on.
-# See http://api.catalogue.life/vocab/gazetteer
-# tdwg, iso, fao, longhurst, teow, iho, text
-gazetteer: iso
-
-# Any commons license, but preferably CC0, CC-BY or CC-BY-NC
-license: CC-0
-
-# version name of this copy
-version: 1.0.2148 (17 Feb 2021)
-
-# release date of this version in ISO YYYY-MM-DD
 released: 2021-02-17
 
-# URL to large logo image
+version: 1.0.2148 (17 Feb 2021)
+
+contact:
+  - given: Donald
+    family: Hobern
+    email: dhobern@gmail.com
+    orcid: 0000-0001-6492-4016
+
+creator:
+  - given: Donald
+    family: Hobern
+    email: dhobern@gmail.com
+    orcid: 0000-0001-6492-4016
+  - given: Cees
+    family: Gielis
+    orcid: 0000-0003-0857-1679
+
+editor:
+  - given: Donald
+    family: Hobern
+    email: dhobern@gmail.com
+    orcid: 0000-0001-6492-4016
+
+geographicScope: global
+
+taxonomicScope: Alucitoidea
+
+temporalScope: All taxa described to present
+
+confidence: 5
+
+completeness: 99
+
+license: CC0
+
+url: https://alucitoidea.hobern.net
+
 logo: https://hobern.net/img/Alucita_hexadactyla.png
 
-# how to cite the dataset
-citation: Gielis C. & Hobern D. (eds) (2020). Catalogue of the Alucitoidea of the World (version 1.0, 09/2020).
+source:
+  - id: gielis-2003
+    type: book
+    title: "Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4)"
+    author:
+      - Cees Gielis
+    issued: 2003
+    isbn: 87-88757-68-4
