@@ -5,3 +5,6 @@
 junk/
 save/
 sorting/
+*.sqlite
+coldp/data/.vs/data/v16/.suo
+coldp/data/.vs/VSWorkspaceState.json
