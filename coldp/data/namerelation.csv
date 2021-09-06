@@ -26,7 +26,7 @@ nameID,relatedNameID,type,referenceID,remarks
 11,6,type,,Type genus
 454,8,type,,Type genus
 412,7,type,,Type genus
-469,177,replacement name,,Replacement for junior homonym
+177,469,replacement name,,Replacement for junior homonym
 470,471,later homonym,,Later homonym
 469,214,later homonym,21,Later homonym
 42,41,superfluous,,misspelling

@@ -480,3 +480,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 484,484,Pterotopteryx taoa,"Buchsbaum, Chen & Chen, 2020",species,,Pterotopteryx,taoa,,155,138,2020,ICZN,established,,
 485,485,Alucita hendriki,"Kovtunovich & Ustjuzhanin, 2021",species,,Alucita,hendriki,,156,124,2021,ICZN,established,,
 486,486,Alucita armstrongi,"Kovtunovich & Ustjuzhanin, 2021",species,,Alucita,armstrongi,,156,124,2021,ICZN,established,,
+487,146,Orneodes hexadactyla,"(Linnaeus, 1758)",species,,Orneodes,hexadactyla,,,,,ICZN,established,,
+488,146,Pterophorus hexadactyla,"(Linnaeus, 1758)",species,,Pterophorus,hexadactyla,,,,,ICZN,established,,
+489,137,Orneodes grammodactyla,"(Zeller, 1841)",species,,Orneodes,grammodactyla,,,,,ICZN,established,,
