@@ -8,3 +8,5 @@ sorting/
 *.sqlite
 coldp/data/.vs/data/v16/.suo
 coldp/data/.vs/VSWorkspaceState.json
+coldp/.vs/coldp/v16/.suo
+coldp/.vs/VSWorkspaceState.json
