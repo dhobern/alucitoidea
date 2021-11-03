@@ -86,7 +86,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 87,87,Orneodes crococyma,"Meyrick, 1937",species,,Orneodes,crococyma,,71,119,1937,ICZN,established,,
 88,89,Alucita cyanophanes,"(Meyrick, 1934)",species,,Alucita,cyanophanes,,,,,ICZN,established,,
 89,89,Orneodes cyanophanes,"Meyrick, 1934",species,,Orneodes,cyanophanes,,69,506,1934,ICZN,established,,
-90,90,Alucita cymatodactyla,"Zeller, 1852",species,,Alucita,cymatodactyla,,128,413,1852,ICZN,established,,
+90,90,Alucita cymatodactyla,"Zeller, 1852",species,,Alucita,cymatodactyla,,128,413,1852,ICZN,established,,https://www.biodiversitylibrary.org/page/44485253
 91,91,Alucita baldizzonella,"Nel, 2001",species,,Alucita,baldizzonella,,74,101,2001,ICZN,established,,
 92,93,Alucita cymographa,"(Meyrick, 1929)",species,,Alucita,cymographa,,,,,ICZN,established,,
 93,93,Orneodes cymographa,"Meyrick, 1929",species,,Orneodes,cymographa,,66,536,1929,ICZN,established,,
@@ -95,7 +95,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 96,96,Alucita deboeri,"Gielis, 2009",species,,Alucita,deboeri,,22,19,2009,ICZN,established,,
 97,97,Alucita deja,"Ustjuzhanin & Kovtunovich, 2020",species,,Alucita,deja,,102,112-114,2020,ICZN,established,,
 98,98,Alucita dejongi,"Gielis, 2009",species,,Alucita,dejongi,,22,19,2009,ICZN,established,,
-99,99,Alucita desmodactyla,"Zeller, 1847",species,,Alucita,desmodactyla,,126,908,1847,ICZN,established,,
+99,99,Alucita desmodactyla,"Zeller, 1847",species,,Alucita,desmodactyla,,126,908,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234116
 100,101,Alucita flavidactyla,"(Toll, 1936)",species,,Alucita,flavidactyla,,,,,ICZN,established,,
 101,101,Orneodes flavidactyla,"Toll, 1936",species,,Orneodes,flavidactyla,,85,405,1936,ICZN,established,,
 102,102,Alucita devosi,"Gielis, 2009",species,,Alucita,devosi,,22,19,2009,ICZN,established,,
@@ -133,7 +133,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 134,134,Alucita fokami,"Ustjuzhanin & Kovtunovich, 2018",species,,Alucita,fokami,,99,131,2018,ICZN,established,,
 135,136,Alucita fumosa,"(Diakonoff, 1948)",species,,Alucita,fumosa,,,,,ICZN,established,,
 136,136,Orneodes fumosa,"Diakonoff, 1948",species,,Orneodes,fumosa,,13,214,1948,ICZN,established,,
-137,137,Alucita grammodactyla,"Zeller, 1841",species,,Alucita,grammodactyla,,127,869,1841,ICZN,established,,
+137,137,Alucita grammodactyla,"Zeller, 1841",species,,Alucita,grammodactyla,,127,869,1841,ICZN,established,,https://www.biodiversitylibrary.org/page/13238988
 138,138,Alucita araxella,"Zagulajev, 2000",species,,Alucita,araxella,,125,880,2000,ICZN,established,,
 139,140,Alucita grammodactyla poecilodactyla,"Alphéraky, 1876",subspecies,,Alucita,grammodactyla,poecilodactyla,,,,ICZN,established,,
 140,140,Alucita grammodactyla var. poecilodactyla,"Alphéraky, 1876",variety,,Alucita,grammodactyla,poecilodactyla,1,225,1876,ICZN,established,,https://biodiversitylibrary.org/page/47928623
@@ -149,9 +149,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 150,150,Orneodes hofmanni,"Pagenstecher, 1900",species,,Orneodes,hofmanni,,75,242,1900,ICZN,established,,
 151,152,Alucita homotrocha,"(Meyrick, 1921)",species,,Alucita,homotrocha,,,,,ICZN,established,,
 152,152,Orneodes homotrocha,"Meyrick, 1921",species,,Orneodes,homotrocha,,61,108,1921,ICZN,established,,
-153,153,Alucita huebneri,"Wallengren, 1859",species,,Alucita,huebneri,,111,24,1859,ICZN,established,,
+153,153,Alucita huebneri,"Wallengren, 1859",species,,Alucita,huebneri,,111,24,1859,ICZN,established,,https://www.biodiversitylibrary.org/page/2566949
 154,155,Alucita cartereaui,"Jourdheuille, 1883",species,,Alucita,cartereaui,,,,,ICZN,established,,
-155,155,Alucita huebneri f. cartereaui,"Jourdheuille, 1883",form,,Alucita,huebneri,,34,220,1883,ICZN,established,,
+155,155,Alucita huebneri f. cartereaui,"Jourdheuille, 1883",form,,Alucita,huebneri,cartereaui,34,220,1883,ICZN,established,,
 156,156,Alucita caucasica,"Zagulajev, 1986",species,,Alucita,caucasica,,120,220,1986,ICZN,established,,
 157,158,Alucita hypocosma,"(Meyrick, 1934)",species,,Alucita,hypocosma,,,,,ICZN,established,,
 158,158,Orneodes hypocosma,"Meyrick, 1934",species,,Orneodes,hypocosma,,9,28,1934,ICZN,established,,
@@ -425,7 +425,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 428,431,Pterotopteryx eumorphodactyla,"(Caradja, 1920)",species,,Pterotopteryx,eumorphodactyla,,,,,ICZN,established,,
 429,431,Alucita eumorphodactyla,"(Caradja, 1920)",species,,Alucita,eumorphodactyla,,,,,ICZN,established,,
 430,430,Pterotopteryx koreana,"Byun, 2006",species,,Pterotopteryx,koreana,,6,42,2006,ICZN,established,,
-431,431,Orneodes zonodactyla var. eumorphodactyla,"Caradja, 1920",variety,,Orneodes,zonodactyla,,8,88,1920,ICZN,established,,
+431,431,Orneodes zonodactyla var. eumorphodactyla,"Caradja, 1920",variety,,Orneodes,zonodactyla,eumorphodactyla,8,88,1920,ICZN,established,,
 432,432,Alucita sakhalinica,"Zagulajev, 1995",species,,Alucita,sakhalinica,,,,,ICZN,established,,
 433,433,Pterotopteryx lida,"Ustjuzhanin & Kovtunovich, 2016",species,,Pterotopteryx,lida,,95,17,2016,ICZN,established,,
 434,435,Pterotopteryx lonicericola,"(Kuznetzov, 1978)",species,,Pterotopteryx,lonicericola,,,,,ICZN,established,,
