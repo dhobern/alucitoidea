@@ -93,3 +93,13 @@ taxonId,area,gazetteer,status,referenceID,remarks
 484,TW,iso,native,155,"Lanyu Island, Taiwan"
 486,ZA,iso,native,156,
 485,ZA,iso,native,156,
+487,ZA,iso,native,157,Western Cape
+488,ZA,iso,native,157,"Free State, Golden Gate Highlands Nat. Park"
+397,ZA,iso,native,157,"Free State, Eastern Cape, Northern Cape, Mpumalanga, Limpopo, KwaZulu-Natal"
+401,ZA,iso,native,157,"Gauteng, Mpumalanga, Free State, Northern Cape, Western Cape"
+402,ZA,iso,native,157,"KwaZulu Natal, Gauteng, Northern Cape, Free State"
+405,ZW,iso,native,93,"Manicaland, Bvumbe, Seldomseen Holiday Cottages"
+405,ZA,iso,native,157,KwaZulu Natal
+406,ZA,iso,native,157,"KwaZulu Natal, Free State"
+408,ZA,iso,native,157,"Limpopo, Gauteng, KwaZulu Natal"
+409,ZA,iso,native,157,"Free State, KwaZulu Natal"

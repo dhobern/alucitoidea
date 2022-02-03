@@ -483,3 +483,5 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 487,146,Orneodes hexadactyla,"(Linnaeus, 1758)",species,,Orneodes,hexadactyla,,,,,ICZN,established,,
 488,146,Pterophorus hexadactyla,"(Linnaeus, 1758)",species,,Pterophorus,hexadactyla,,,,,ICZN,established,,
 489,137,Orneodes grammodactyla,"(Zeller, 1841)",species,,Orneodes,grammodactyla,,,,,ICZN,established,,
+490,490,Microschismus yakovlevi,Ustjuzhanin & Kovtunovich 2020,species,,Microschismus,yakovlevi,,157,424,2020,ICZN,established,,
+491,491,Microschismus alida,"Ustjuzhanin & Kovtunovich, 2020",species,,Microschismus,alida,,157,424,2020,ICZN,established,,
