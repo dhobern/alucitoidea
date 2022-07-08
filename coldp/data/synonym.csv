@@ -51,7 +51,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 32,33,,synonym,,
 205,206,,synonym,,
 144,145,,synonym,,
-120,123,,synonym,,
 334,336,,synonym,,
 76,77,,synonym,,
 186,187,,synonym,,
@@ -195,3 +194,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 146,487,,synonym,,
 146,488,,synonym,,
 137,489,,synonym,,
+324,492,,synonym,,Misspelling for Alucita stephanopis in LepIndex

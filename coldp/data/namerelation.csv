@@ -75,7 +75,6 @@ nameID,relatedNameID,type,referenceID,remarks
 115,116,basionym,,
 118,119,basionym,,
 120,122,basionym,,
-121,123,basionym,,
 126,127,basionym,,
 128,129,basionym,,
 130,131,basionym,,
@@ -178,3 +177,5 @@ nameID,relatedNameID,type,referenceID,remarks
 459,458,basionym,,
 463,464,basionym,,
 481,290,basionym,,
+492,324,superfluous,,misspelling
+121,120,superfluous,,misspelling
