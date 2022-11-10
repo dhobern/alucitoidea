@@ -35,7 +35,7 @@
         
         <div class="Overview">
             
-            <h2>Catalogue of the Alucitoidea of the World, version 1.1.22.308 (04 Nov 2022)</h2>
+            <h2>Catalogue of the Alucitoidea of the World, version 1.1.22.314 (10 Nov 2022)</h2>
             
             <ul>
             <li><a href="catalogue.php"><strong>Browse the catalogue</strong></a></li>

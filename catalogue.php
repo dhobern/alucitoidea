@@ -30,7 +30,7 @@
         </header>
         
         <div class="Overview">
-            <h2>Catalogue of the Alucitoidea of the World, version 1.1.22.308 (04 Nov 2022)</h2>
+            <h2>Catalogue of the Alucitoidea of the World, version 1.1.22.314 (10 Nov 2022)</h2>
             <p><a href="index.php">See the <strong>background to this catalogue</strong> (including search and browse function)</a></p>
         </div>
         
