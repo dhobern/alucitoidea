@@ -35,13 +35,13 @@
         
         <div class="Overview">
             
-            <h2>Catalogue of the Alucitoidea of the World, version 1.1.22.314 (10 Nov 2022)</h2>
+            <h2>Catalogue of the Alucitoidea of the World, version 1.1.23.125 (05 May 2023)</h2>
             
             <ul>
             <li><a href="catalogue.php"><strong>Browse the catalogue</strong></a></li>
             <li><a href="notes.php"><strong>Notes on the catalogue</strong></a></li>
             <li><a href="Alucitoidea.zip"><strong>Download the catalogue as a ZIP file</strong></a> (<a href="https://github.com/CatalogueOfLife/coldp">COLDP format)</a></li>
-            <li><a href="https://data.catalogue.life/dataset/2207/classification" target="_blank"><strong>View the catalogue in Catalogue of Life ChecklistBank</strong></a></li>
+            <li><a href="https://www.checklistbank.org/dataset/2207/classification" target="_blank"><strong>View the catalogue in Catalogue of Life ChecklistBank</strong></a></li>
             </ul>
 
             <p>This digital catalogue for the Alucitoidea of the world is 
