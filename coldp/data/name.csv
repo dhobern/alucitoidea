@@ -70,12 +70,12 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 71,71,Alucita butleri,"Wallengren, 1875",species,,Alucita,,butleri,,112,130,1875,ICZN,established,,
 72,72,Alucita canariensis,"Scholz & Jäckh, 1994",species,,Alucita,,canariensis,,80,26,1994,ICZN,established,,
 73,74,Alucita cancellata,"(Meyrick, 1908)",species,,Alucita,,cancellata,,,,,ICZN,established,,
-74,74,Orneodes cancellata,"Meyrick, 1908",species,,Orneodes,,cancellata,,53,510,1908,ICZN,established,,
+74,74,Orneodes cancellata,"Meyrick, 1908",species,,Orneodes,,cancellata,,53,510,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535052
 75,75,Alucita capensis,"Felder & Rogenhofer, 1875",species,,Alucita,,capensis,,15,"Plate CXL, fig. 63",1875,ICZN,established,,https://www.biodiversitylibrary.org/page/1221397
 76,77,Alucita certifica,"(Meyrick, 1909)",species,,Alucita,,certifica,,,,,ICZN,established,,
 77,77,Orneodus certifica,"Meyrick, 1909",species,,Orneodus,,certifica,,54,4,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/50494889
 78,79,Alucita chloracta,"(Meyrick, 1908)",species,,Alucita,,chloracta,,,,,ICZN,established,,
-79,79,Orneodes chloracta,"Meyrick, 1908",species,,Orneodes,,chloracta,,53,507,1908,ICZN,established,,
+79,79,Orneodes chloracta,"Meyrick, 1908",species,,Orneodes,,chloracta,,53,507,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535049
 80,81,Alucita cinnerethella,"(Amsel, 1935)",species,,Alucita,,cinnerethella,,,,,ICZN,established,,
 81,81,Orneodes cinnerethella,"Amsel, 1935",species,,Orneodes,,cinnerethella,,4,293,1935,ICZN,established,,
 82,83,Alucita coffeina,"(Viette, 1958)",species,,Alucita,,coffeina,,,,,ICZN,established,,
@@ -189,7 +189,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 191,191,Orneodes lyristis,"Meyrick, 1911",species,,Orneodes,,lyristis,,55,107,1911,ICZN,established,,
 192,192,Alucita mabilabolensis,"Gielis, 2009",species,,Alucita,,mabilabolensis,,22,21,2009,ICZN,established,,
 193,194,Alucita magadis,"(Meyrick, 1908)",species,,Alucita,,magadis,,,,,ICZN,established,,
-194,194,Orneodes magadis,"Meyrick, 1908",species,,Orneodes,,magadis,,53,510,1908,ICZN,established,,
+194,194,Orneodes magadis,"Meyrick, 1908",species,,Orneodes,,magadis,,53,510,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535052
 195,196,Alucita major,"(Rebel, 1905)",species,,Alucita,,major,,80,42,1994,ICZN,established,,
 196,196,Orneodes desmodactyla var. major,"Rebel, 1905",variety,,Orneodes,,desmodactyla,major,140,210,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/5325364
 197,197,Alucita malawica,"Ustjuzhanin & Kovtunovich, 2016",species,,Alucita,,malawica,,96,,2016,ICZN,established,,
@@ -199,7 +199,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 201,201,Alucita melanodactyla,"Legrand, 1965",species,,Alucita,,melanodactyla,,141,52,1965,ICZN,established,,
 202,202,Alucita meloui,"Ustjuzhanin & Kovtunovich, 2016",species,,Alucita,,meloui,,103,1115,2016,ICZN,established,,
 203,204,Alucita mesolychna,"(Meyrick, 1908)",species,,Alucita,,mesolychna,,,,,ICZN,established,,
-204,204,Orneodes mesolychna,"Meyrick, 1908",species,,Orneodes,,mesolychna,,53,508,1908,ICZN,established,,
+204,204,Orneodes mesolychna,"Meyrick, 1908",species,,Orneodes,,mesolychna,,53,508,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535050
 205,206,Alucita microdesma,"(Meyrick, 1929)",species,,Alucita,,microdesma,,,,,ICZN,established,,
 206,206,Orneodes microdesma,"Meyrick, 1929",species,,Orneodes,,microdesma,,66,534,1929,ICZN,established,,https://www.biodiversitylibrary.org/page/60297894
 207,208,Alucita micrographa,"(Diakonoff, 1954)",species,,Alucita,,micrographa,,,,,ICZN,established,,
@@ -220,13 +220,13 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 222,478,Alucita nannodactyla,"(Rebel, 1907)",species,,Alucita,,nannodactyla,,,,,ICZN,established,,
 223,223,Alucita nasuta,"Zeller, 1877",species,,Alucita,,nasuta,,129,486,1877,ICZN,established,,https://www.biodiversitylibrary.org/page/12834728
 224,225,Alucita nephelotoxa,"(Meyrick, 1908)",species,,Alucita,,nephelotoxa,,,,,ICZN,established,,
-225,225,Orneodes nephelotoxa,"Meyrick, 1908",species,,Orneodes,,nephelotoxa,,53,505,1908,ICZN,established,,
+225,225,Orneodes nephelotoxa,"Meyrick, 1908",species,,Orneodes,,nephelotoxa,,53,505,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535047
 226,227,Alucita niphadosema,"(Diakonoff, 1954)",species,,Alucita,,niphadosema,,,,,ICZN,established,,
 227,227,Orneodes niphadosema,"Diakonoff, 1954",species,,Orneodes,,niphadosema,,14,182,1954,ICZN,established,,
 228,229,Alucita niphodosema,"(Diakonoff, 1954)",species,,Alucita,,niphodosema,,,,,ICZN,established,Misspelling,
 229,229,Orneodes niphodosema,"Diakonoff, 1954",species,,Orneodes,,niphodosema,,,,,ICZN,established,Misspelling,
 230,231,Alucita niphostrota,"(Meyrick, 1908)",species,,Alucita,,niphostrota,,,,,ICZN,established,,
-231,231,Orneodes niphostrota,"Meyrick, 1908",species,,Orneodes,,niphostrota,,53,507,1908,ICZN,established,,
+231,231,Orneodes niphostrota,"Meyrick, 1908",species,,Orneodes,,niphostrota,,53,507,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535049
 232,232,Alucita nipsana,"Gielis, 2009",species,,Alucita,,nipsana,,22,22,2009,ICZN,established,,
 233,234,Alucita nubifera,"(Meyrick, 1921)",species,,Alucita,,nubifera,,,,,ICZN,established,,
 234,234,Orneodes nubifera,"Meyrick, 1921",species,,Orneodes,,nubifera,,62,408,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9808826
@@ -268,12 +268,12 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 272,272,Orneodes photaula,"Meyrick, 1918",species,,Orneodes,,photaula,,58,55,1918,ICZN,established,,
 273,273,Alucita phricodes,"Meyrick, 1886",species,,Alucita,,phricodes,,47,20,1886,ICZN,established,,
 274,275,Alucita pinalea,"(Meyrick, 1908)",species,,Alucita,,pinalea,,,,,ICZN,established,,
-275,275,Orneodes pinalea,"Meyrick, 1908",species,,Orneodes,,pinalea,,53,506,1908,ICZN,established,,
+275,275,Orneodes pinalea,"Meyrick, 1908",species,,Orneodes,,pinalea,,53,506,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535048
 276,276,Alucita pliginskii,"Zagulajev, 2000",species,,Alucita,,pliginskii,,125,885,2000,ICZN,established,,
 277,278,Alucita plumigera,"(Strand, 1913)",species,,Alucita,,plumigera,,,,,ICZN,established,,
-278,278,Orneodes plumigera,"Strand, 1913",species,,Orneodes,,plumigera,,84,63,1913,ICZN,established,,
+278,278,Orneodes plumigera,"Strand, 1913",species,,Orneodes,,plumigera,,84,63,1913,ICZN,established,,https://www.biodiversitylibrary.org/page/13317707
 279,280,Alucita pluvialis,"(Meyrick, 1908)",species,,Alucita,,pluvialis,,,,,ICZN,established,,
-280,280,Orneodes pluvialis,"Meyrick, 1908",species,,Orneodes,,pluvialis,,53,505,1908,ICZN,established,,
+280,280,Orneodes pluvialis,"Meyrick, 1908",species,,Orneodes,,pluvialis,,53,505,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535047
 281,282,Alucita postfasciata,"(Fletcher, 1910)",species,,Alucita,,postfasciata,,,,,ICZN,established,,
 282,282,Orneodes postfasciata,"Fletcher, 1910",species,,Orneodes,,postfasciata,,134,162,1910,ICZN,established,,https://www.biodiversitylibrary.org/page/59022187
 283,284,Alucita proseni,"(Pastrana, 1951)",species,,Alucita,,proseni,,,,,ICZN,established,,
@@ -287,7 +287,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 291,291,Alucita pusilla,"Hashimoto, 1984",species,,Alucita,,pusilla,,146,113,1984,ICZN,established,,
 292,292,Alucita pygmaea,"Meyrick, 1890",species,,Alucita,,pygmaea,,49,1112,1890,ICZN,established,,
 293,294,Alucita rhaptica,"(Meyrick, 1920)",species,,Alucita,,rhaptica,,,,,ICZN,established,,
-294,294,Orneodes rhaptica,"Meyrick, 1920",species,,Orneodes,,rhaptica,,60,82,1920,ICZN,established,,
+294,294,Orneodes rhaptica,"Meyrick, 1920",species,,Orneodes,,rhaptica,,60,82,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/56561487
 295,296,Alucita rhymotoma,"(Meyrick, 1921)",species,,Alucita,,rhymotoma,,,,,ICZN,established,,
 296,296,Orneodes rhymotoma,"Meyrick, 1921",species,,Orneodes,,rhymotoma,,62,408,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9808826
 297,298,Alucita riggii,"(Orfila, 1949)",species,,Alucita,,riggii,,,,,ICZN,established,,
@@ -340,7 +340,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 344,345,Alucita trachyptera,"(Meyrick, 1906)",species,,Alucita,,trachyptera,,,,,ICZN,established,,
 345,345,Orneodes trachyptera,"Meyrick, 1906",species,,Orneodes,,trachyptera,,51,134,1906,ICZN,established,,
 346,347,Alucita tricausta,"(Meyrick, 1908)",species,,Alucita,,tricausta,,,,,ICZN,established,,
-347,347,Orneodes tricausta,"Meyrick, 1908",species,,Orneodes,,tricausta,,53,506,1908,ICZN,established,,
+347,347,Orneodes tricausta,"Meyrick, 1908",species,,Orneodes,,tricausta,,53,506,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535048
 348,348,Alucita triscausta,"Meyrick, 1908",species,,Alucita,,triscausta,,,,,ICZN,established,Misspelling,
 349,349,Alucita tridentata,"Scholz & Jäckh, 1994",species,,Alucita,,tridentata,,80,24,1994,ICZN,established,,
 350,350,Alucita ussurica,"Ustjuzhanin, 1999",species,,Alucita,,ussurica,,92,2,1999,ICZN,established,,
@@ -435,7 +435,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 439,440,Alucita ochracea,"(Marumo, 1923)",species,,Alucita,,ochracea,,,,,ICZN,established,,
 440,440,Orneodes ochracea,"Marumo, 1923",species,,Orneodes,,ochracea,,,,,ICZN,established,,
 441,442,Alucita spilodesma,"(Meyrick, 1908)",species,,Alucita,,spilodesma,,,,,ICZN,established,,
-442,442,Orneodes spilodesma,"Meyrick, 1908",species,,Orneodes,,spilodesma,,53,508,1908,ICZN,established,,
+442,442,Orneodes spilodesma,"Meyrick, 1908",species,,Orneodes,,spilodesma,,53,508,1908,ICZN,established,,https://www.biodiversitylibrary.org/page/13535050
 443,443,Orneodes isshikii,"Matsumura, 1931",species,,Orneodes,,isshikii,,44,,1931,ICZN,established,,
 444,445,Pterotopteryx synnephodactyla,"(Alphéraky, 1876)",species,,Pterotopteryx,,synnephodactyla,,,,,ICZN,established,,
 445,445,Alucita synnephodactyla,"Alphéraky, 1876",species,,Alucita,,synnephodactyla,,2,33,1876,ICZN,established,,
