@@ -1,4 +1,4 @@
 taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relatedTaxonLink,relatedTaxonOrder,relatedTaxonFamily,relatedTaxonFullName,relatedTaxonHTMLName
 94,,Tecoma fulva subsp. fulva,eats,104,,https://www.catalogueoflife.org/data/taxon/5LFHG,Lamiales,Bignoniaceae,Tecoma fulva subsp. fulva,<i>Tecoma fulva</i> subsp. <i>fulva</i>
 94,,Tecoma fulva subsp. arequipensis,eats,153,,https://www.catalogueoflife.org/data/taxon/5LFHF,Lamiales,Bignoniaceae,Tecoma fulva subsp. arequipensis (Sprague) J. R. I. Wood,<i>Tecoma fulva</i> subsp. <i>arequipensis</i> (Sprague) J. R. I. Wood
-481,,Barleria prionitis,eats,154,Host plant is an introduced species in Réunion,https://www.catalogueoflife.org/data/taxon/KRTP,Lamiales,Acanthaceae,Barleria prionitis L.,<i>Barleria prionitis</i> L.
+197,,Barleria prionitis,eats,154,(As Alucita priona) Host plant is an introduced species in Réunion,https://www.catalogueoflife.org/data/taxon/KRTP,Lamiales,Acanthaceae,Barleria prionitis L.,<i>Barleria prionitis</i> L.

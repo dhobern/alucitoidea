@@ -89,7 +89,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 355,ID-PP,iso,native,22,Indonesia: Papua: Mamberamo Tengah
 366,ID-PP,iso,native,22,Indonesia: Papua: Mamberamo district
 368,ID-PP,iso,native,22,Indonesia: Papua: Sarmi district
-481,RE,iso,native,154,"Réunion, La Possession"
+197,RE,iso,native,154,"(As Alucita priona) Réunion, La Possession"
 484,TW,iso,native,155,"Lanyu Island, Taiwan"
 486,ZA,iso,native,156,
 485,ZA,iso,native,156,
@@ -118,3 +118,5 @@ taxonId,area,gazetteer,status,referenceID,remarks
 146,NO,iso,native,160,
 424,NO,iso,native,160,
 143,MN,iso,native,161,
+489,ET,iso,native,162,
+197,ET,iso,native,162,
