@@ -1,5 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-243,244,,synonym,,
 320,321,,synonym,,
 307,308,,synonym,96,Subjective synonym
 320,322,,synonym,,
@@ -11,7 +10,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 307,309,,synonym,97,Subjective synonym
 334,335,,synonym,97,Subjective synonym
 52,53,,synonym,,
-307,310,,synonym,97,Subjective synonym
 307,311,,synonym,,
 342,343,,synonym,,
 267,268,,synonym,,
