@@ -58,6 +58,7 @@ CF,Central African Republic
 TD,Chad
 CL,Chile
 CN,China
+CN-BJ,China (Beijing)
 CN-54,China (Tibet)
 CX,Christmas Island
 CC,Cocos Islands
@@ -241,6 +242,7 @@ RU,Russia
 RU-AL,Russia (Altai)
 RU-AMU,Russia (Amur)
 RU-DA,Russia (Daghestan)
+RU-PRI,Russia (Primorsky kray)
 RU-VGG,Russia (Sarepta)
 RU-SAK,Russia (Sakhalin)
 RW,Rwanda
