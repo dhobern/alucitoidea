@@ -173,3 +173,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 46,CN-BJ,iso,native,166,
 54,CN-BJ,iso,native,166,
 54,RU-PRI,iso,native,166,
+503,SA,iso,native,167,
+504,AE,iso,native,167,
+504,TZ,iso,native,167,

@@ -183,7 +183,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 326,11,326,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita straminea,
 327,11,327,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita sycophanta,
 330,11,330,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita tandilensis,
-332,11,332,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita tanzanica,
 333,11,333,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita tatjana,
 334,11,334,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita tesserata,
 338,11,338,"Gielis, C. & Hobern, D.",2020-07-17,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita thapsina,
@@ -298,3 +297,5 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 500,9,503,D. Hobern,2024-04-11,false,164,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alinguata,,Alinguata tinalandia,
 501,420,504,D. Hobern,2024-07-04,false,165,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Prymnotomis,,Prymnotomis saopauloana,
 502,391,505,D. Hobern,2024-07-04,false,165,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Hexeretmis,,Hexeretmis argobrunnea,
+503,11,507,D. Hobern,2025-02-25,false,167,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita mayri,
+504,11,508,D. Hobern,2025-02-25,false,168,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Alucitoidea,Alucitidae,,,Alucita,,Alucita inflativora,
